@@ -1,0 +1,55 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.fragmentexample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:5:5-20:19
+12        android:allowBackup="true"
+12-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.example.android.fragmentexample2.SecondActivity" />
+20-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:12:9-61
+20-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:12:19-49
+21        <activity android:name="com.example.android.fragmentexample2.MainActivity" >
+21-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:13:9-19:20
+21-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:13:19-47
+22            <intent-filter>
+22-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\User\AndroidStudioProjects\NewProjectFragment\app\src\main\AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28
+29        <meta-data
+29-->[com.android.support:appcompat-v7:26.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ed3e57a24afabaeb479bd0db51180df4\appcompat-v7-26.0.1\AndroidManifest.xml:26:9-28:38
+30            android:name="android.support.VERSION"
+30-->[com.android.support:appcompat-v7:26.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ed3e57a24afabaeb479bd0db51180df4\appcompat-v7-26.0.1\AndroidManifest.xml:27:13-51
+31            android:value="26.0.1" />
+31-->[com.android.support:appcompat-v7:26.0.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ed3e57a24afabaeb479bd0db51180df4\appcompat-v7-26.0.1\AndroidManifest.xml:28:13-35
+32    </application>
+33
+34</manifest>
